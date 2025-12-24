@@ -1,0 +1,672 @@
+🛒 Free Shipping On All Orders
+
+🛍️ Flat ₹300 OFF on Orders Above ₹3000!
+
+[![](https://binfarash.com/cdn/shop/files/Artboard_21.jpg?v=1762855162&width=1900)](https://binfarash.com/collections/fragrance-for-every-moment)
+
+![](https://binfarash.com/cdn/shop/files/IA_-C3.jpg?v=1752480503&width=1920)
+
+[Shop Now](https://binfarash.com/products/imperial-aura-perfume)
+
+![](https://binfarash.com/cdn/shop/files/AN_-C4.jpg?v=1752480445&width=1920)
+
+[Shop Now](https://binfarash.com/products/amber-noir-perfume)
+
+![](https://binfarash.com/cdn/shop/files/DBOX_-C2_F1.jpg?v=1752646204&width=1920)
+
+[Shop Now](https://binfarash.com/products/discovery-set)
+
+## Fragrance for Every Moment
+
+Experience our signature fragrances
+
+
+[![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P1.jpg?v=1744959751&width=2048)\\
+\\
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P2.jpg?v=1752576122&width=2048)](https://binfarash.com/products/amber-noir-perfume)
+
+Add to wishlistQuick view
+
+[AMBER NOIR](https://binfarash.com/products/amber-noir-perfume)
+
+12 reviews
+
+Regular price
+Rs. 2,295.00
+
+
+Add to Cart
+
+Out of Stock
+
+
+[![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IAPRIMG1_1P1.jpg?v=1745206905&width=2048)\\
+\\
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P2.jpg?v=1752576247&width=2048)](https://binfarash.com/products/imperial-aura-perfume)
+
+Add to wishlistQuick view
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume)
+
+17 reviews
+
+Regular price
+Rs. 2,195.00
+
+
+Add to Cart
+
+Out of Stock
+
+
+[![DISCOVERY SET](https://binfarash.com/cdn/shop/files/GIFT_BOX_F1_ceee7caf-4122-4fe5-a64e-5a5563f4d6c5.jpg?v=1752576743&width=2048)\\
+\\
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/DSET_P3.jpg?v=1752576743&width=2098)](https://binfarash.com/products/discovery-set)
+
+Add to wishlistQuick view
+
+[DISCOVERY SET](https://binfarash.com/products/discovery-set)
+
+4 reviews
+
+Regular price
+Rs. 1,122.00
+
+
+Add to Cart
+
+Out of Stock
+
+
+## Shop the Fragrance : Explore, Love, Buy
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IAPRIMG1_1P1.jpg?v=1745206905&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P2.jpg?v=1752576247&width=2048)
+
+IMPERIAL AURA
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IAPRIMG1_1P1.jpg?v=1745206905&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P2.jpg?v=1752576247&width=2048)
+
+IMPERIAL AURA
+
+Shop now
+
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IAPRIMG1_1P1.jpg?v=1745206905&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P2.jpg?v=1752576247&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P4.jpg?v=1752576247&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/IA_PRODUCT_IMG_P3.jpg?v=1752576247&width=2048)
+
+![IMPERIAL AURA](https://binfarash.com/cdn/shop/files/preview_images/9513f2a6783e4c6588633fe75522f766.thumbnail.0000000000.jpg?v=1745641238&width=1080)
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume)
+
+17 reviews
+
+Unveil a symphony of citrus freshness with zesty lemon oil and vibrant citrus accords, complemented by delicate floral nuances. The heart blooms with the rich allure of rose and magnolia, deepened by the earthy tones of patchouli and vetiver. A warm, sensual base of amber, musk, and sweet vanilla lingers, leaving an unforgettable imperial aura.
+
+Quantity: 60 ml
+
+60 ml[View details](https://binfarash.com/products/imperial-aura-perfume)
+
+Quantity
+
+Add to Cart
+
+Add to wishlistCompare
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P1.jpg?v=1744959751&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P2.jpg?v=1752576122&width=2048)
+
+AMBER NOIR
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P1.jpg?v=1744959751&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P2.jpg?v=1752576122&width=2048)
+
+AMBER NOIR
+
+Shop now
+
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P1.jpg?v=1744959751&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P2.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P3.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P4.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P2.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/preview_images/3b810ea71e1a466bb0eb5f332670814d.thumbnail.0000000000.jpg?v=1745641185&width=1080)
+
+[AMBER NOIR](https://binfarash.com/products/amber-noir-perfume)
+
+12 reviews
+
+**Amber Noir by BinFarash** is a captivating blend of warm, rich, and mysterious notes, crafted for those who exude confidence and sophistication. Opening with the exotic spice of **saffron** and the crisp freshness of **juniper berries**, it unfolds into a bold heart of **leather, orchid, and plum**, adding a sensual depth. The fragrance lingers with a refined base of **vetiver, papyrus, and amber**, creating an aura of elegance and warmth.
+
+Perfect for evening wear, special occasions, or whenever you want to leave a lasting impression.
+
+Quantity: 60 ml
+
+60 ml[View details](https://binfarash.com/products/amber-noir-perfume)
+
+Quantity
+
+Add to Cart
+
+Add to wishlistCompare
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/GIFT_BOX_F1_ceee7caf-4122-4fe5-a64e-5a5563f4d6c5.jpg?v=1752576743&width=2048)
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/DSET_P3.jpg?v=1752576743&width=2098)
+
+DISCOVERY SET
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/GIFT_BOX_F1_ceee7caf-4122-4fe5-a64e-5a5563f4d6c5.jpg?v=1752576743&width=2048)
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/DSET_P3.jpg?v=1752576743&width=2098)
+
+DISCOVERY SET
+
+Shop now
+
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/GIFT_BOX_F1_ceee7caf-4122-4fe5-a64e-5a5563f4d6c5.jpg?v=1752576743&width=2048)
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/DSET_P3.jpg?v=1752576743&width=2098)
+
+![DISCOVERY SET](https://binfarash.com/cdn/shop/files/GIFT_BOX_F1.jpg?v=1752482450&width=2048)
+
+[DISCOVERY SET](https://binfarash.com/products/discovery-set)
+
+4 reviews
+
+Experience luxury with BinFarash Signature Duo, featuring Imperial Aura and Amber Noir in a sleek 15ml combo.
+
+**Imperial Aura** – Enjoy citrus freshness with lemon oil and floral notes, a rich heart of rose and patchouli, and a warm amber-vanilla base for a lasting imperial aura.
+
+**Amber Noir** – A fresh yet sensual mix of citrus, spice, and smoky amber, perfect for effortless elegance.
+
+A travel-friendly set for every occasion—powerful, refined, and timeless.
+
+Quantity: 15 ml
+
+15 ml[View details](https://binfarash.com/products/discovery-set)
+
+Quantity
+
+Add to Cart
+
+Add to wishlistCompare
+
+## Our \#1 Bestseller
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P1.jpg?v=1744959751&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P2.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P3.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRODUCT_IMG_P4.jpg?v=1752576122&width=2048)
+
+![AMBER NOIR](https://binfarash.com/cdn/shop/files/AN_PRIMG_1_1_P2.jpg?v=1752576122&width=2048)
+
+1/6
+
+## AMBER NOIR
+
+Regular price
+Rs. 2,295.00
+
+
+A bold and sophisticated fragrance for those who radiate confidence. It opens with exotic saffron and fresh juniper berries, leads into a rich heart of leather, orchid, and plum, and settles into a warm, elegant base of vetiver, papyrus, and amber.
+
+Quantity: 60 ml
+
+60 ml
+
+Quantity
+
+Decrease quantity for AMBER NOIR
+Quantity
+Increase quantity for AMBER NOIR
+
+Add to Cart
+
+Add to wishlist
+
+[View Full Details](https://binfarash.com/products/amber-noir-perfume)
+
+## Why Choose Bin Farash?
+
+![images](https://binfarash.com/cdn/shop/files/magic.png?v=1762148997&width=128)
+
+### HANDCRAFTED WITH PURPOSE
+
+Every perfume is created with emotion, care, and a story worth sharing. Not mass-made, but mindfully crafted.
+
+![images](https://binfarash.com/cdn/shop/files/perfume.png?v=1762149253&width=128)
+
+### REAL INGREDIENTS, RICH ESSENCE
+
+We use high-grade perfume oils and blends that stay true to their roots — pure, deep, and lasting.
+
+![images](https://binfarash.com/cdn/shop/files/arabic-language.png?v=1762149505&width=128)
+
+### ROOTED IN HERITAGE
+
+Our name carries meaning. Bin Farash stands for strength, legacy, and the journey that shaped us.
+
+![images](https://binfarash.com/cdn/shop/files/love.png?v=1762149697&width=128)
+
+### FOR EVERY SOUL
+
+Each fragrance speaks a universal language, made for anyone who feels deeply and dares to express it.
+
+[![Images](https://binfarash.com/cdn/shop/files/DBOX_-C2.jpg?v=1752480617&width=1920)](https://binfarash.com/products/discovery-set)
+
+[![Images](https://binfarash.com/cdn/shop/files/M_DBOX_-B2.jpg?v=1752480651&width=960)](https://binfarash.com/products/discovery-set)
+
+## Our Promise to You
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+Non-Carcinogenic
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/no-chemical.svg?v=1742709725&width=64)
+
+Sulphate Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/leaf_1.svg?v=1742709724&width=64)
+
+100% Vegan
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/rabbit.svg?v=1742709725&width=64)
+
+Cruelty Free
+
+
+
+
+![](https://binfarash.com/cdn/shop/files/carcinogen.svg?v=1742709622&width=64)
+
+## Let customers speak for us
+
+from 33 reviews
+
+Good
+
+Not a bad
+
+Ashraf Pk
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+15/12/25
+
+Good
+
+I really like it
+
+Hari Das
+
+[AMBER NOIR](https://binfarash.com/products/amber-noir-perfume#judgeme_product_reviews)
+
+19/11/25
+
+👌
+
+👌
+
+Anonymous
+
+[AMBER NOIR](https://binfarash.com/products/amber-noir-perfume#judgeme_product_reviews)
+
+14/11/25
+
+Boss fragrance
+
+Used in gym and still smelled fresh later. Solid lasting.
+
+Aditya
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+06/11/25
+
+Foreign class
+
+Bottle looks premium, smell stays for hours.
+
+Zoya Khan
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+06/11/25
+
+One word – classy
+
+Rich, smooth, long-lasting. Everyone at office asked what I’m wearing.
+
+Aman pp
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+06/11/25
+
+Smells damn rich
+
+Long-lasting, proper premium vibe. Didn’t expect this from an Indian brand!
+
+Rohit
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+06/11/25
+
+Perfect for gifting or travel. One is fresh and clean, the other deep and smoky. Both feel luxurious without being too strong. Really impressed with the quality.
+
+Nihal
+
+[DISCOVERY SET](https://binfarash.com/products/discovery-set#judgeme_product_reviews)
+
+27/10/25
+
+Nice set overall. I prefer Amber Noir personally, but Imperial Aura is good for office wear. The small bottles look nice and are easy to carry around.
+
+Imran
+
+[DISCOVERY SET](https://binfarash.com/products/discovery-set#judgeme_product_reviews)
+
+27/10/25
+
+Loved this combo! Both scents are totally different but equally elegant. Imperial Aura is light and fresh, perfect for daytime, while Amber Noir feels deeper and more evening-appropriate. The mini sizes are easy to carry in my bag.
+
+Aarav
+
+[DISCOVERY SET](https://binfarash.com/products/discovery-set#judgeme_product_reviews)
+
+27/10/25
+
+Smells good and feels high quality. The citrus opening wakes you up right away. It’s not overpowering, which I absolutely love.
+
+Riya Ajwa
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+27/10/25
+
+My kind of perfume
+
+I bought all three but this is my favourite!! smells so good and it lasts for a long time.
+
+Arshad
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+27/10/25
+
+Perfect!
+
+This perfume smells amazing. The citrus and rose mix gives me a very confident feel. I wear it to the office almost every day, and it’s never too much.
+
+Aysha
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+27/10/25
+
+Good, clean fragrance. Has a crisp opening that’s great in the morning. Lasts around 5–6 hours on me.
+
+Riteish
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+27/10/25
+
+Very fresh and nice! The lemon note is super clean. Perfect for daily wear.
+
+Hiba B
+
+[IMPERIAL AURA](https://binfarash.com/products/imperial-aura-perfume#judgeme_product_reviews)
+
+27/10/25
+
+## As Seen on the 'Gram
+
+Explore our world of fragrance, behind-the-scenes stories, and new launches. Join the fragrance journey [_**@binfarash**_](https://www.instagram.com/binfarash/ "Follow Bin Farash on Instagram")
+
+![Instagram shop](https://binfarash.com/cdn/shop/files/Meet_Your_Mood_with_Bin_Farash_Perfumes_where_every_scent_weaves_an_emotional_bond_Unbox_Amber.jpg?v=1752647859&width=1080)![Instagram shop](https://binfarash.com/cdn/shop/files/insta2.jpg?v=1752648078&width=1080)![Instagram shop](https://binfarash.com/cdn/shop/files/amb.jpg?v=1752649769&width=1080)![Instagram shop](https://binfarash.com/cdn/shop/files/insta3.jpg?v=1752648083&width=1080)
+
+### Free Shipping
+
+We offer free standard shipping on all orders.
+
+### Secure Payment
+
+All transactions are protected by SSL technology.
+
+### Support Online
+
+Need help? We're here for you—anytime.
+
+[Home](https://binfarash.com/) [Account](https://shopify.com/74272801019/account?locale=en&region_country=IN) [Shop](https://binfarash.com/collections/all) [0Wishlist](https://binfarash.com/pages/wishlist) [0Cart](https://binfarash.com/cart)
+
+Shopping Cart
+(0)
+
+###### Your cart is currently empty!.
+
+You may check out all the available products and buy some in the shop.
+
+
+Continue Shopping
+
+
+[Skip to content](https://binfarash.com/#MainContent)
+
+- Choosing a selection results in a full page refresh.
+- Opens in a new window.
+
+binfarash.com
+
+# binfarash.com is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+
+This page has been blocked by an extension
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+shop.app
+
+# shop.app is blocked
+
+This page has been blocked by an extension
+
+- Try disabling your extensions.
+
+ERR\_BLOCKED\_BY\_CLIENT
+
+Reload
+
+
+This page has been blocked by an extension
+
+![](<Base64-Image-Removed>)![](<Base64-Image-Removed>)
+
+[Judge.me](https://binfarash.com/#)
+
+Universal Cookies
+
+![](https://cdn.live.zoko.io/store/customers/c92b5b6c-563a-432a-8c3c-af36debe1165-zo-ko-wp_widget_icon.png)
+
+### 5% off
+
+Test Mode
+
+Razorpay Checkout
