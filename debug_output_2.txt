@@ -1,0 +1,10 @@
+Testing scraper with https://example.com...
+[Playwright] Launching in Local mode...
+[Playwright] Successfully loaded https://example.com
+--- SCRAPE SUCCESS ---
+Title: Example Domain
+Markdown Length: 183
+HTML Length: 368
+Links Found: 1
+Screenshot present: true
+Screenshot start: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD

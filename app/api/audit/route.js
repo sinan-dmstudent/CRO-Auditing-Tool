@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { scrapeUrl } from '@/lib/firecrawl';
+import { scrapeUrl } from '@/lib/playwright';
 import { analyzeContent } from '@/lib/gemini';
 import { IDENTIFY_PAGES_PROMPT, AUDIT_PAGE_PROMPT } from '@/lib/prompts';
 
@@ -17,7 +17,8 @@ function cleanJson(text) {
 
         const clean = text.substring(start, end + 1);
         return JSON.parse(clean);
-    } catch (e) {
+
+    } catch {
         console.error("Failed to parse JSON:", text.substring(0, 500) + "..."); // Log first 500 chars
         return null;
     }
@@ -26,7 +27,7 @@ function cleanJson(text) {
 function resolveUrl(baseUrl, relativeUrl) {
     try {
         return new URL(relativeUrl, baseUrl).toString();
-    } catch (e) {
+    } catch {
         return relativeUrl;
     }
 }
@@ -41,7 +42,8 @@ export async function POST(request) {
 
         // 1. Scrape Homepage
         console.log(`Scraping Homepage: ${url}`);
-        const homeContent = await scrapeUrl(url);
+        const homeScrapeResult = await scrapeUrl(url);
+        const homeContent = homeScrapeResult.markdown || "";
 
         // 2. Identify Niche and Links
         console.log("Identifying Niche and Pages...");
@@ -58,7 +60,7 @@ export async function POST(request) {
 
         // 3. Scrape Other Pages (Parallel)
         const pagesToScrape = [
-            { type: 'Homepage', url: url, content: homeContent }, // Already scraped
+            { type: 'Homepage', url: url, content: homeScrapeResult }, // Already scraped
             { type: 'Collection Page', url: resolveUrl(url, links.collection) },
             { type: 'Product Page', url: resolveUrl(url, links.product) },
             { type: 'Cart Page', url: resolveUrl(url, links.cart) }
@@ -87,14 +89,63 @@ export async function POST(request) {
         const auditPromises = scrapedPages.map(async (page) => {
             if (!page.content) return { type: page.type, error: "Could not scrape page" };
 
-            const prompt = AUDIT_PAGE_PROMPT(page.type, page.content, niche);
-            const resultRaw = await analyzeContent(prompt);
+            // AUDIT_PAGE_PROMPT now returns an array [{ text: ... }]
+            const promptParts = AUDIT_PAGE_PROMPT(page.type, page.content, niche);
+
+            // Fetch and attach screenshot if available
+            if (page.content.screenshot) {
+                try {
+                    let base64Image;
+
+                    if (page.content.screenshot.startsWith('data:')) {
+                        // It's already a Data URI (from Playwright)
+                        base64Image = page.content.screenshot.split(',')[1];
+                        console.log(`[Audit] Used cached screenshot for ${page.url}`);
+                    } else {
+                        // It's a URL (from FireCrawl legacy or S3)
+                        console.log(`[Audit] Fetching screenshot for ${page.url}...`);
+                        const imageResp = await fetch(page.content.screenshot);
+                        if (imageResp.ok) {
+                            const arrayBuffer = await imageResp.arrayBuffer();
+                            base64Image = Buffer.from(arrayBuffer).toString('base64');
+                        } else {
+                            console.warn(`[Audit] Failed to fetch screenshot: ${imageResp.statusText}`);
+                        }
+                    }
+
+                    if (base64Image) {
+                        promptParts.push({
+                            inlineData: {
+                                data: base64Image,
+                                mimeType: "image/png"
+                            }
+                        });
+                        console.log(`[Audit] Attached screenshot for ${page.url}`);
+                    }
+                } catch (imgErr) {
+                    console.error(`[Audit] Error processing screenshot for ${page.url}:`, imgErr);
+                }
+            }
+
+            const resultRaw = await analyzeContent(promptParts);
+            console.log(`[Audit DEBUG] Raw output for ${page.type}:`, resultRaw.substring(0, 500)); // Log start of output
             const findings = cleanJson(resultRaw);
+
+            if (!findings) {
+                console.error(`[Audit ERROR] Failed to parse JSON for ${page.type}. Raw length: ${resultRaw.length}`);
+            } else if (!findings.findings || findings.findings.length === 0) {
+                console.warn(`[Audit WARNING] Parsed JSON has empty findings for ${page.type}`);
+            }
+
+            // Filter out Low severity findings explicitly (Double safety)
+            // REMOVED at user request ("Follow the checklist strictly") - we trust the prompt to only output relevant findings
+            // and we don't want to swallow "Low" severity checklist items if the model ignores the "Mark as Medium" instruction.
+            const filteredFindings = (findings?.findings || []);
 
             return {
                 type: page.type,
                 url: page.url,
-                findings: findings?.findings || []
+                findings: filteredFindings
             };
         });
 

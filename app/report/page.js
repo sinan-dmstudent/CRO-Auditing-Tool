@@ -3,6 +3,8 @@
 import { useEffect, useState, Suspense } from 'react';
 import { useSearchParams } from 'next/navigation';
 
+import Link from 'next/link';
+
 function ReportContent() {
     const searchParams = useSearchParams();
     const url = searchParams.get('url');
@@ -48,7 +50,7 @@ function ReportContent() {
             <div className="container" style={{ paddingTop: '4rem', textAlign: 'center' }}>
                 <h2 style={{ color: '#d82c0d' }}>Audit Failed</h2>
                 <p style={{ color: 'var(--text-secondary)' }}>{error}</p>
-                <a href="/" className="btn btn-primary" style={{ marginTop: '2rem' }}>Try Again</a>
+                <Link href="/" className="btn btn-primary" style={{ marginTop: '2rem' }}>Try Again</Link>
             </div>
         );
     }
@@ -96,9 +98,9 @@ function ReportContent() {
                         }}>
                             {data.niche}
                         </span>
-                        <a href="/" className="btn btn-primary" style={{ padding: '0.5rem 1rem', fontSize: '0.9rem', textDecoration: 'none' }}>
+                        <Link href="/" className="btn btn-primary" style={{ padding: '0.5rem 1rem', fontSize: '0.9rem', textDecoration: 'none' }}>
                             Audit New Store
-                        </a>
+                        </Link>
                     </div>
                 </div>
 

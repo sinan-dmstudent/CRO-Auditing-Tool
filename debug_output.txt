@@ -1,0 +1,25 @@
+Testing scraper with https://example.com...
+[Playwright] Launching in Local mode...
+[Playwright] Scrape error for https://example.com: ReferenceError: require is not defined
+    at launchBrowser (file:///C:/Users/muham/Downloads/CRO%20PM/lib/playwright.js:28:30)
+    at scrapeUrl (file:///C:/Users/muham/Downloads/CRO%20PM/lib/playwright.js:43:25)
+    at test (C:\Users\muham\Downloads\CRO PM\scripts\test_scraper.js:8:30)
+    at Object.<anonymous> (C:\Users\muham\Downloads\CRO PM\scripts\test_scraper.js:22:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
+--- SCRAPE FAILED ---
+ReferenceError: require is not defined
+    at launchBrowser (file:///C:/Users/muham/Downloads/CRO%20PM/lib/playwright.js:28:30)
+    at scrapeUrl (file:///C:/Users/muham/Downloads/CRO%20PM/lib/playwright.js:43:25)
+    at test (C:\Users\muham\Downloads\CRO PM\scripts\test_scraper.js:8:30)
+    at Object.<anonymous> (C:\Users\muham\Downloads\CRO PM\scripts\test_scraper.js:22:1)
+    at Module._compile (node:internal/modules/cjs/loader:1706:14)
+    at Object..js (node:internal/modules/cjs/loader:1839:10)
+    at Module.load (node:internal/modules/cjs/loader:1441:32)
+    at Function._load (node:internal/modules/cjs/loader:1263:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)

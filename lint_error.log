@@ -1,0 +1,26 @@
+
+> cro-app@0.1.0 lint
+> eslint
+
+
+C:\Users\muham\Downloads\CRO PM\app\api\audit\route.js
+  20:14  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+  29:14  warning  'e' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\muham\Downloads\CRO PM\app\report\page.js
+  51:17  error  Do not use an `<a>` element to navigate to `/`. Use `<Link />` from `next/link` instead. See: https://nextjs.org/docs/messages/no-html-link-for-pages  @next/next/no-html-link-for-pages
+  99:25  error  Do not use an `<a>` element to navigate to `/`. Use `<Link />` from `next/link` instead. See: https://nextjs.org/docs/messages/no-html-link-for-pages  @next/next/no-html-link-for-pages
+
+C:\Users\muham\Downloads\CRO PM\debug_video.js
+  4:8  warning  'fs' is defined but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\muham\Downloads\CRO PM\lib\prompts.js
+  114:9  warning  'screenshotUrl' is assigned a value but never used  @typescript-eslint/no-unused-vars
+
+C:\Users\muham\Downloads\CRO PM\scripts\check_models.js
+  1:32  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  2:16  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+  3:14  error  A `require()` style import is forbidden  @typescript-eslint/no-require-imports
+
+Γ£û 9 problems (5 errors, 4 warnings)
+
