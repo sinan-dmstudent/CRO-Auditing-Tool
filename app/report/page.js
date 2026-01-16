@@ -21,7 +21,7 @@ function ReportContent() {
         if (!url) return;
 
         const fetchData = async () => {
-            setStatus('Preparing report...');
+            setStatus('Scraping Website...');
             try {
                 const res = await fetch('/api/audit', {
                     method: 'POST',
