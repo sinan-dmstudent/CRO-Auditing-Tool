@@ -128,18 +128,26 @@ export async function POST(request) {
             }
 
             const resultRaw = await analyzeContent(promptParts);
-            console.log(`[Audit DEBUG] Raw output for ${page.type}:`, resultRaw.substring(0, 500)); // Log start of output
+            console.log(`[Audit DEBUG] Raw output for ${page.type}:`, resultRaw.substring(0, 500));
             const findings = cleanJson(resultRaw);
 
             if (!findings) {
-                console.error(`[Audit ERROR] Failed to parse JSON for ${page.type}. Raw length: ${resultRaw.length}`);
-            } else if (!findings.findings || findings.findings.length === 0) {
-                console.warn(`[Audit WARNING] Parsed JSON has empty findings for ${page.type}`);
+                console.error(`[Audit ERROR] Failed to parse JSON for ${page.type}`);
             }
 
-            // Filter out Low severity findings explicitly (Double safety)
-            // REMOVED at user request ("Follow the checklist strictly") - we trust the prompt to only output relevant findings
-            // and we don't want to swallow "Low" severity checklist items if the model ignores the "Mark as Medium" instruction.
+            // 5. Generate SVGs for solutions - DISABLED BY USER REQUEST
+            // We previously generated SVGs here, but now we skip it to provide only insights and solutions.
+            if (findings && findings.findings) {
+                console.log(`[Audit] Skipping reference image generation for ${page.type} (User Requested Removal)`);
+            }
+
+            // Optimization: Wait for ALL images for this page before finishing this page's processing
+            // This ensures the "Display only after generation" rule.
+            // Optimization: Wait for ALL images for this page before finishing this page's processing
+            // This ensures the "Display only after generation" rule.
+
+            console.log(`[Audit] Content generation complete for ${page.type}`);
+
             const filteredFindings = (findings?.findings || []);
 
             return {

@@ -21,7 +21,7 @@ function ReportContent() {
         if (!url) return;
 
         const fetchData = async () => {
-            setStatus('Scraping Website...');
+            setStatus('Preparing report...');
             try {
                 const res = await fetch('/api/audit', {
                     method: 'POST',
@@ -241,9 +241,20 @@ function ReportContent() {
                                             <strong style={{ color: 'var(--text-primary)', fontSize: '0.95rem' }}>Solutions</strong>
                                             <ul style={{ margin: 0, paddingLeft: '1.2rem', color: 'var(--text-secondary)' }}>
                                                 {Array.isArray(item.solutions) ? (
-                                                    item.solutions.map((pt, idx) => <li key={idx} style={{ marginBottom: '0.5rem' }}>{pt}</li>)
+                                                    item.solutions.map((sol, idx) => {
+                                                        const text = typeof sol === 'object' && sol.text ? sol.text : sol;
+                                                        const svgContent = typeof sol === 'object' ? sol.reference_image_svg : null;
+
+                                                        return (
+                                                            <li key={idx} style={{ marginBottom: '1rem' }}>
+                                                                <div style={{ marginBottom: '0.25rem' }}>{String(text)}</div>
+                                                            </li>
+                                                        );
+                                                    })
                                                 ) : (
-                                                    <li style={{ marginBottom: '0.5rem' }}>{item.solution || item.solutions}</li>
+                                                    <li style={{ marginBottom: '0.5rem' }}>
+                                                        {typeof (item.solution || item.solutions) === 'object' ? (item.solution || item.solutions).text : (item.solution || item.solutions)}
+                                                    </li>
                                                 )}
                                             </ul>
                                         </div>
