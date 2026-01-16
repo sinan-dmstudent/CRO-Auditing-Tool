@@ -87,7 +87,7 @@ export async function POST(request) {
         // 4. Audit Pages (Parallel)
         console.log("Auditing pages...");
         const auditPromises = scrapedPages.map(async (page) => {
-            if (!page.content) return { type: page.type, error: "Could not scrape page" };
+            if (!page.content) return { type: page.type, error: page.error || "Could not scrape page" };
 
             // AUDIT_PAGE_PROMPT now returns an array [{ text: ... }]
             const promptParts = AUDIT_PAGE_PROMPT(page.type, page.content, niche);
